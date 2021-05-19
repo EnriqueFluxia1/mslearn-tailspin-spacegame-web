@@ -1,6 +1,7 @@
 #Prueba
+
 trigger:
-  - '*'
+- '*'
 
 pool:
     vmImage: 'ubuntu-18.04'
